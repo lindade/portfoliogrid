@@ -1,4 +1,6 @@
 $black: #000;
+$gray: #ddd;
+$yellow: #ffc107;
 
 #main-header {
   img {
@@ -28,6 +30,15 @@ $black: #000;
   @media(min-width: 1199px) {
     .port-item {
       padding: 3em !important;
+    }
+  }
+}
+
+#work {
+  p {
+    a {
+      color: #000;
+      text-decoration-line: underline;
     }
   }
 }

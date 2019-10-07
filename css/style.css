@@ -14,3 +14,7 @@
 @media (min-width: 1199px) {
   #main-header .port-item {
     padding: 3em !important; } }
+
+#work p a {
+  color: #000;
+  text-decoration-line: underline; }
